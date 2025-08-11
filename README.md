@@ -11,7 +11,7 @@ Este projeto foi criado com finalidade educacional para praticar o desenvolvimen
 - Angular  
 - TypeScript  
 - HTML5 / CSS3  
-- Bootstrap (ou outro framework CSS, se usado)  
+- Bootstrap
 - HttpClient para comunicação com API backend  
 
 ## Descrição
